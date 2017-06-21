@@ -34,5 +34,9 @@
     }
   },
   "servers": {
+  },
+  "docker": {
+    "mac_size": "118407105",
+    "windows_size": "214698696"
   }
 }
