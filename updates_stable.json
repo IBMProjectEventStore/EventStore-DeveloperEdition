@@ -9,13 +9,11 @@
     "Project EventStore": {
       "size": "12",
       "date": "07-31-2017, 12:00:00 PM",
-      "readme": "not implemented yet",
       "name": "es_desktop",
       "version": "stable",
       "bytes": "GB",
       "tarName": "es_desktop.tar.gz",
-      "tarSize": "4622772816",
-      "processed": "false"
+      "tarSize": "4622772816"
     }
   },
   "servers": {
