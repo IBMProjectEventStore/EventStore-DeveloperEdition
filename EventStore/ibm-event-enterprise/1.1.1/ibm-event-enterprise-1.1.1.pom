@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>EventStore</groupId>
-  <artifactId>ibm-event-desktop.jar</artifactId>
+  <artifactId>ibm-event-enterprise</artifactId>
   <version>1.1.1</version>
   <description>POM was created from install:install-file</description>
 </project>
