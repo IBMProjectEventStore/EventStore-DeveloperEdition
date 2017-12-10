@@ -1,0 +1,19 @@
+{
+  "notebooks": {
+    "Project EventStore": {
+      "size": "12",
+      "date": "09-06-2017, 3:00:00 PM",
+      "name": "es_desktop",
+      "version": "1.1.1",
+      "bytes": "GB",
+      "tarName": "es_desktop.tar.gz",
+      "tarSize": "4674030193"
+    }
+  },
+  "servers": {
+  },
+  "docker": {
+    "mac_size": "118407105",
+    "windows_size": "214698696"
+  }
+}
