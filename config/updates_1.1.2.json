@@ -2,9 +2,9 @@
   "notebooks": {
     "Project EventStore": {
       "size": "12",
-      "date": "09-06-2017, 3:00:00 PM",
+      "date": "12-10-2017, 9:00:00 AM",
       "name": "es_desktop",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "bytes": "GB",
       "tarName": "es_desktop.tar.gz",
       "tarSize": "4720984698"
