@@ -3,10 +3,11 @@
   <groupId>EventStore</groupId>
   <artifactId>ibm-event-enterprise</artifactId>
   <versioning>
-    <release>1.1.1</release>
+    <release>1.1.2</release>
     <versions>
       <version>1.1.1</version>
+      <version>1.1.2</version>
     </versions>
-    <lastUpdated>20171017190103</lastUpdated>
+    <lastUpdated>20171215222701</lastUpdated>
   </versioning>
 </metadata>
