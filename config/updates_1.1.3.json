@@ -10,8 +10,10 @@
       "tarSize": "4833485424"
     }
   },
-  "servers": {
-    "NA": "http://raf-kb1.fyre.ibm.com/assets/tars"
+  "downloads": {
+    "servers": {
+      "NA": "http://raf-kb1.fyre.ibm.com/assets/tars"
+    }
   },
   "docker": {
     "mac_size": "118407105",
