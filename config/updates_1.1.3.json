@@ -12,7 +12,7 @@
   },
   "downloads": {
     "servers": {
-      "NA": "http://raf-kb1.fyre.ibm.com/assets/tars"
+      "NA": "http://es-desktop.s3-api.dal-us-geo.objectstorage.softlayer.net"
     }
   },
   "docker": {
