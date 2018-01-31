@@ -1,0 +1,22 @@
+{
+  "notebooks": {
+    "Project EventStore": {
+      "size": "14",
+      "date": "01-31-2018, 14:00:00",
+      "name": "es_desktop",
+      "version": "1.1.4",
+      "bytes": "GB",
+      "tarName": "es_desktop.tar.gz",
+      "tarSize": "4833485424"
+    }
+  },
+  "downloads": {
+    "servers": {
+      "NA": "http://es-desktop.s3-api.dal-us-geo.objectstorage.softlayer.net"
+    }
+  },
+  "docker": {
+    "mac_size": "118407105",
+    "windows_size": "214698696"
+  }
+}
