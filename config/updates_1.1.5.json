@@ -21,11 +21,35 @@
         "tarName": "es_desktop.tar.gz",
         "tarSize": "4932890474"
       }
+    },
+    "dsx-core": {
+      "DSX Desktop": {
+        "size": "0.6",
+        "date": "09-24-2017, 08:00:00 PM",
+        "readme": "First version",
+        "name": "dsx-desktop",
+        "version": "v1",
+        "bytes": "GB",
+        "tarName": "dsx-core-ux.tar.gz",
+        "tarSize": "168086966"
+      }
     }
   },
   "downloads": {
     "servers": {
       "NA": "http://es-desktop.s3-api.dal-us-geo.objectstorage.softlayer.net"
+    }
+  },
+  "dsx-core": {
+    "DSX Desktop": {
+      "size": "0.6",
+      "date": "09-24-2017, 08:00:00 PM",
+      "readme": "First version",
+      "name": "dsx-desktop",
+      "version": "v1",
+      "bytes": "GB",
+      "tarName": "dsx-core-ux.tar.gz",
+      "tarSize": "168086966"
     }
   },
   "docker": {
