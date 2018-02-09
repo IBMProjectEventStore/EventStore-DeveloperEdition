@@ -7,7 +7,7 @@
       "version": "1.1.5",
       "bytes": "GB",
       "tarName": "es_desktop.tar.gz",
-      "tarSize": "4932890474"
+      "tarSize": "4932961279"
     }
   },
   "DockerImages": {
@@ -19,7 +19,7 @@
         "version": "1.1.5",
         "bytes": "GB",
         "tarName": "es_desktop.tar.gz",
-        "tarSize": "4932890474"
+        "tarSize": "4932961279"
       }
     },
     "dsx-core": {
