@@ -2,24 +2,24 @@
   "notebooks": {
     "Project EventStore": {
       "size": "14",
-      "date": "02-01-2018, 15:43:00",
+      "date": "02-20-2018, 15:43:00",
       "name": "es_desktop",
       "version": "1.1.5",
       "bytes": "GB",
       "tarName": "es_desktop.tar.gz",
-      "tarSize": "4932961279"
+      "tarSize": "3898241011"
     }
   },
   "DockerImages": {
     "notebooks": {
       "Project EventStore": {
         "size": "14",
-        "date": "02-01-2018, 15:43:00",
+        "date": "02-20-2018, 15:43:00",
         "name": "es_desktop",
         "version": "1.1.5",
         "bytes": "GB",
         "tarName": "es_desktop.tar.gz",
-        "tarSize": "4932961279"
+        "tarSize": "3898241011"
       }
     },
     "dsx-core": {
