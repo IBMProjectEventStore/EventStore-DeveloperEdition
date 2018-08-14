@@ -12,7 +12,7 @@
   },
   "downloads": {
     "servers": {
-      "NA": "http://es-desktop.s3-api.us-geo.objectstorage.softlayer.net"
+      "NA": "https://es-desktop.cdnedge.bluemix.net"
     }
   },
   "docker": {
