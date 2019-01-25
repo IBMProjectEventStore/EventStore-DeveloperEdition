@@ -1,59 +1,22 @@
 {
   "notebooks": {
-    "Project EventStore": {
+    "IBM Db2 Event Store": {
       "size": "14",
-      "date": "02-20-2018, 15:43:00",
+      "date": "10-17-2018, 15:43:00",
       "name": "es_desktop",
       "version": "1.1.5",
       "bytes": "GB",
       "tarName": "es_desktop.tar.gz",
-      "tarSize": "3898241011"
-    }
-  },
-  "DockerImages": {
-    "notebooks": {
-      "Project EventStore": {
-        "size": "14",
-        "date": "02-20-2018, 15:43:00",
-        "name": "es_desktop",
-        "version": "1.1.5",
-        "bytes": "GB",
-        "tarName": "es_desktop.tar.gz",
-        "tarSize": "3898241011"
-      }
-    },
-    "dsx-core": {
-      "DSX Desktop": {
-        "size": "0.6",
-        "date": "09-24-2017, 08:00:00 PM",
-        "readme": "First version",
-        "name": "dsx-desktop",
-        "version": "v1",
-        "bytes": "GB",
-        "tarName": "dsx-core-ux.tar.gz",
-        "tarSize": "168086966"
-      }
+      "tarSize": "5039387212"
     }
   },
   "downloads": {
     "servers": {
-      "NA": "http://es-desktop.s3-api.dal-us-geo.objectstorage.softlayer.net"
-    }
-  },
-  "dsx-core": {
-    "DSX Desktop": {
-      "size": "0.6",
-      "date": "09-24-2017, 08:00:00 PM",
-      "readme": "First version",
-      "name": "dsx-desktop",
-      "version": "v1",
-      "bytes": "GB",
-      "tarName": "dsx-core-ux.tar.gz",
-      "tarSize": "168086966"
+      "NA": "https://es-desktop.cdnedge.bluemix.net"
     }
   },
   "docker": {
-    "mac_size": "118407105",
+    "mac_size": "370328537",
     "windows_size": "214698696"
   }
 }
